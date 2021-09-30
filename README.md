@@ -9,7 +9,7 @@
 
 const hrishita = {
   pronouns: "she" | "her",
-  code: [Javascript, Android, HTML, CSS, Python, Java, React, node],
+  code: [Javascript, Android, HTML, CSS, Python, Java, React, Node],
   architecture: ["microservices", "event-driven"],
   databases: ["mongo", "MySql", "sqlite"],
   misc: ["Firebase", "Socket.IO"]
